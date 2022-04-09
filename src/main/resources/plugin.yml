@@ -1,0 +1,6 @@
+name: CustomMob
+version: '${project.version}'
+main: xyz.bingulhan.custommob.CustomMob
+commands:
+  spawnmob:
+    description: spawn for mob
